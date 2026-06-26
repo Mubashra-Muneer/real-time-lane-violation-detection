@@ -105,11 +105,3 @@ The system successfully detects lane boundaries and identifies lane violations i
 * Road Safety Systems
 * Intelligent Transportation Systems (ITS)
 * Automated Traffic Surveillance
-
-## Author
-
-Mubashra Munir
-
----
-
-If you found this project useful, consider giving it a star.
